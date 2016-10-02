@@ -1,0 +1,58 @@
+
+/*logo of the website*/
+.sflogo {
+	padding-top: 45px;
+	text-align: center;
+	color: #ffffff;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+	.sflogo > h2 {
+		font-size: 20px;
+	}
+/*tag lines*/
+
+.taglines {
+	color: #ffffff;
+	font-family: 'Roboto Condensed', sans-serif;
+	padding-top: 65px;
+	text-align: center;
+}
+
+	.taglines > h1 {
+		font-size: 40px;
+		font-weight: 100;
+	}
+	.taglines > h2 {
+		font-size: 20px;
+		font-weight: 100;
+	}
+
+.form-wrapper {
+	margin-top: 50px;
+}
+
+	input, button {
+		font-family: 'Roboto Condensed', sans-serif;
+		font-size:  15px;
+		padding: 15px;
+		border: none;
+		border-radius: 5px;
+	}
+
+	button {
+		background: none;
+		border: 1px #ffffff solid;
+		color: #ffffff;
+		margin-bottom: 50px;
+	}
+
+	input {
+		margin-bottom: 15px;
+	}
+
+#password-error {
+	color: #ffffff;
+}
+#credentials-error {
+	color: #ffffff;
+}
